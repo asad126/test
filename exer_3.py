@@ -6,3 +6,5 @@ cr.execute("create table product (id int primary key default nextval('inc'), nam
 conn.commit()
 cr.close()
 conn.close()
+#this is test file
+# asad
